@@ -2,6 +2,8 @@
 
 Dictionary application that requests definitions from a public API.
 
+Deployed on [Vercel](https://dictionary-ochre.vercel.app/).
+
 ## Brief
 
 Your challenge is to build out this dictionary web app using the Dictionary API and get it looking as close to the design as possible.
