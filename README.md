@@ -39,4 +39,5 @@ Total: 8h 30min
 ## Actuals
 
 - Design: 30min
--
+- Base website deployed: 5min
+- Mobile view:
